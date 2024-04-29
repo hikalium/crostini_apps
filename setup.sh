@@ -35,3 +35,4 @@ function download_tar_xz() {
 
 download_appimage "bambu_studio" "https://github.com/bambulab/BambuStudio/releases/download/v01.08.04.51/BambuStudio_linux_ubuntu_v01.08.04.51_20240117.AppImage"
 download_tar_xz "blender" "https://mirror.freedif.org/blender/release/Blender4.0/blender-4.0.1-linux-x64.tar.xz"
+download_tar_xz "blender3.6" "https://mirror.freedif.org/blender/release/Blender3.6/blender-3.6.11-linux-x64.tar.xz"
